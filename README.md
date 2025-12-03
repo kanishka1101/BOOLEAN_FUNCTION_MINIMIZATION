@@ -69,14 +69,20 @@ endmodule
 
 
 **RTL**
-![ex2](https://github.com/user-attachments/assets/d069b760-c223-4ff5-93e3-1d53d6f63b04)
-![ex2 2](https://github.com/user-attachments/assets/9a06547c-364d-449a-8a57-8eb0945e365e)
+![EX2](https://github.com/user-attachments/assets/72eccbae-e485-4b96-95d3-eedb859d5dbb)
+![EX2 2](https://github.com/user-attachments/assets/b5e8565f-0fa5-4221-95c0-f96ac66473ce)
+
+
 
 
 
 **Timing Diagram**
-![waveform2](https://github.com/user-attachments/assets/a1c545b1-071f-43d3-93c5-782de8d02331)
-![waveform2 2](https://github.com/user-attachments/assets/b0590f37-bdc8-4930-a1d8-c19a9d7bf006)
+![EX2wave](https://github.com/user-attachments/assets/0eeb0bc4-a9c8-4cba-92a5-a39e458d106b)
+![waveform2 2](https://github.com/user-attachments/assets/9f753b2a-c97d-4a4e-b1b9-401429e1b075)
+
+
+
+
 
 
 
