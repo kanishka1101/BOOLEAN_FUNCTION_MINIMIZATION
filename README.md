@@ -79,7 +79,8 @@ endmodule
 
 **Timing Diagram**
 ![EX2wave](https://github.com/user-attachments/assets/0eeb0bc4-a9c8-4cba-92a5-a39e458d106b)
-![exp2](https://github.com/user-attachments/assets/5b679dc8-0c4f-4f84-8130-e9029a3257dd)
+![ex2 1](https://github.com/user-attachments/assets/b660c851-a31f-4a74-8689-be447b08a7b2)
+
 
 
 
