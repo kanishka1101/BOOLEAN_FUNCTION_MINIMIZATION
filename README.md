@@ -79,7 +79,7 @@ endmodule
 
 **Timing Diagram**
 ![EX2wave](https://github.com/user-attachments/assets/0eeb0bc4-a9c8-4cba-92a5-a39e458d106b)
-![WhatsApp Image 2025-11-22 at 8 30 45 PM](https://github.com/user-attachments/assets/40d604dd-49b7-4c9d-9d02-03c212a40e3c)
+![WhatsApp Image 2025-11-22 at 8 30 45 PM](https://github.com/user-attachments/assets/b8bbbc4e-5ab4-4b56-89ea-9ba94f9e68a4)
 
 
 
