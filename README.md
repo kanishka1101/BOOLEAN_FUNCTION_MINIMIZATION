@@ -68,26 +68,13 @@ endmodule
 **Output:**
 <img width="760" height="437" alt="Screenshot 2025-11-23 123853" src="https://github.com/user-attachments/assets/9bd169fe-96fa-4ebe-9879-f498a3f7c4eb" />
 
-
 **RTL**
 ![EX2](https://github.com/user-attachments/assets/72eccbae-e485-4b96-95d3-eedb859d5dbb)
 ![EX2 2](https://github.com/user-attachments/assets/b5e8565f-0fa5-4221-95c0-f96ac66473ce)
 
-
-
-
 **Timing Diagram**
 ![EX2wave](https://github.com/user-attachments/assets/0eeb0bc4-a9c8-4cba-92a5-a39e458d106b)
 ![WhatsApp Image 2025-11-22 at 8 30 45 PM](https://github.com/user-attachments/assets/b8bbbc4e-5ab4-4b56-89ea-9ba94f9e68a4)
-
-
-
-
-
-
-
-
-
 
 **Result:**
 
